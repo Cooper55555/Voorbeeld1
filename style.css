@@ -53,7 +53,7 @@ div.gallery {
   body {
     margin: 0;
   }
-  
+
   .header {
     background-color: white;
     padding: 20px;
@@ -63,4 +63,8 @@ div.gallery {
 
   #title {
     font-size: 75px;
+  }
+
+  #background {
+    height: 800px
   }
